@@ -1,0 +1,2 @@
+# Factory_pattren
+ Desgin_pattren_Factory_Method
